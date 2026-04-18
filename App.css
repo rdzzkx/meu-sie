@@ -1,3 +1,10 @@
 #root {
   width: 100%;
 }
+export default function App() {
+  return (
+    <div>
+      <h1>Site no ar 🚀</h1>
+    </div>
+  );
+}
